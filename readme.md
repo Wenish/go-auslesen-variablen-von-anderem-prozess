@@ -1,5 +1,7 @@
 # Verwendung
 
+Auf Windows 11 mit der Go Version 1.23.4
+
 ## 1. Starte das erste Programm:
 
 
